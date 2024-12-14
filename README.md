@@ -4,7 +4,17 @@
 🔭 I’m currently working on the Quantum Internet Challenge<br>💬 Ask me about Competitive Programming | Complexity Theory | Quantum Computing<br>📧 You can reach me at moizulfiqar@gmail.com<br>⚡ Fun fact about me: I love tennis!
 
 
-[![](https://visitcount.itsvg.in/api?id=7xflade&icon=5&color=12)](https://visitcount.itsvg.in)
+<div align='left'>
+<p align="left"> 
+   Visitor count:
+   <img src="https://profile-counter.glitch.me/7xflade/count.svg" align="center"/> 
+ </p></div>
+
+ <p align="left">
+  <a href="https://github.com/7xflade">
+    <img src="https://github-stats-alpha.vercel.app/api?username=7xflade&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
+  </a>
+ </p>
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
