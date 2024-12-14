@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moiz Zulfiqar</h1># 💫 About Me:
+<h1 align="center">Hi 👋, I'm Moiz Zulfiqar</h1>💫 About Me:
 🔭 I’m currently working on the Quantum Internet Challenge<br>💬 Ask me about Competitive Programming | Complexity Theory | Quantum Computing<br>📧 You can reach me at moizulfiqar@gmail.com<br>⚡ Fun fact about me: I love tennis!
 
 
