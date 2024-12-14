@@ -3,7 +3,6 @@
 💫 About Me:
 🔭 I’m currently working on the Quantum Internet Challenge<br>💬 Ask me about Competitive Programming | Complexity Theory | Quantum Computing<br>📧 You can reach me at moizulfiqar@gmail.com<br>⚡ Fun fact about me: I love tennis!
 
-
 <div align='left'>
 <p align="left"> 
    Visitor count:
@@ -34,9 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=7xflade&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7xflade&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=7xflade&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake.svg" />
