@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moiz Zulfiqar</h1>💫 About Me:
 🔭 I’m currently working on the Quantum Internet Challenge<br>💬 Ask me about Competitive Programming | Complexity Theory | Quantum Computing<br>📧 You can reach me at moizulfiqar@gmail.com<br>⚡ Fun fact about me: I love tennis!
-
-
+[![](https://visitcount.itsvg.in/api?id=7xflade&icon=5&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/moizulfiqar16/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moizulfikar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moiz-zulfiqar/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28771925/moiz-zulfiqar) 
 
@@ -14,9 +13,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=7xflade&icon=5&color=12)](https://visitcount.itsvg.in)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake.svg" />
