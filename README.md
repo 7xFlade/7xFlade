@@ -33,6 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=7xflade&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7xflade&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=7xflade&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7xflade&theme=ambient_gradient&hide_border)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake.svg" />
