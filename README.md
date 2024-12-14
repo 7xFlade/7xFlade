@@ -34,7 +34,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=7xflade&theme=ambient_gradient&hide_border=true)<br/>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7xflade&theme=ambient_gradient&hide_border=true)<br/>  -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7xflade&theme=ambient_gradient&hide_border=true)<br/>)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7xflade&theme=ambient_gradient&hide_border=true)<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake.svg" />
