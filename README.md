@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moiz Zulfiqar</h1>
-<h3 align="center">Computer Science Major | Mathematics Minor | Researcher | Teaching Assistant | Competitive Programming | Complexity Theory | Quantum Computing</h3>
-
 <div align='center'>
 <p align="center"> 
    Visitor count:
    <img src="https://profile-counter.glitch.me/7xflade/count.svg" align="center"/> 
  </p></div>
-
+ 
+<h3 align="left">Computer Science Major | Mathematics Minor | Researcher | Teaching Assistant | Competitive Programming | Complexity Theory | Quantum Computing</h3>
  <p align="left">
   <a href="https://github.com/7xflade">
     <img src="https://github-stats-alpha.vercel.app/api?username=7xflade&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
