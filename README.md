@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moiz Zulfiqar</h1>
 <h3 align="center">Computer Science Major | Mathematics Minor | Researcher | Teaching Assistant | Competitive Programming | Complexity Theory | Quantum Computing</h3>
 
-<div align='left'>
-<p align="left"> 
+<div align='center'>
+<p align="center"> 
    Visitor count:
    <img src="https://profile-counter.glitch.me/7xflade/count.svg" align="center"/> 
  </p></div>
