@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moiz Zulfiqar</h1>
 <h3 align="center">Computer Science Major | Mathematics Minor | Researcher | Teaching Assistant | Competitive Programming | Complexity Theory | Quantum Computing</h3>
-💫 About Me:
-🔭 I’m currently working on the Quantum Internet Challenge<br>💬 Ask me about Competitive Programming | Complexity Theory | Quantum Computing<br>📧 You can reach me at moizulfiqar@gmail.com<br>⚡ Fun fact about me: I love tennis!
 
 <div align='left'>
 <p align="left"> 
